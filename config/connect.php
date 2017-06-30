@@ -3,7 +3,7 @@
 
 $mysql_host = "localhost";
 $mysql_username = "root";
-$mysql_database = "forum";
+$mysql_database = "webside";
 $mysql_password = "";
 
 
