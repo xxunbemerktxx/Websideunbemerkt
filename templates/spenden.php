@@ -25,10 +25,18 @@
         Momentan werden noch mindestens 180,00 € Ben&ouml;tigt!<br>
 		Wir wissen das dies eine große Summe ist aber wir hoffen das sie uns etwas unterstützen!
       </li>
-	  <li class="list-group-item">
-        <img class="forum_img" src="" />
-        <a href="https://server.nitrado.net/deu/donations/donate2/517535/0" target="_blank">Spenden</a>
-      </li>
+	<li class="list-group-item">
+        	<img class="forum_img" src="" />
+        	<a href="https://server.nitrado.net/deu/donations/donate2/517535/0" target="_blank">Spenden</a>
+      	</li>
+	<li class="list-group-item">
+        	<img class="forum_img" src="" />
+        	ODER:
+      	</li>
+	<li class="list-group-item">
+        	<img class="forum_img" src="" />
+        	<a href="https://mc-host24.de" target="_blank">Spenden</a>
+      	</li>
     </ul>
   </div>
 </div>
