@@ -26,18 +26,8 @@
 		Wir wissen das dies eine große Summe ist aber wir hoffen das sie uns etwas unterstützen!
       </li>
 	  <li class="list-group-item">
-	  1. <br>
-        <img  src="/assets/img/spenden1.JPG" /><br>
-
-      </li>
-	  <li class="list-group-item">
-
-	  2. <br>
-        <img title="und zum schluss auf weiter!"  src="/assets/img/spenden2.JPG" />
-      </li>
-	  <li class="list-group-item">
         <img class="forum_img" src="" />
-        <a href="https://mc-host24.de/" target="_blank">Spenden</a>
+        <a href="https://server.nitrado.net/deu/donations/donate2/517535/0" target="_blank">Spenden</a>
       </li>
     </ul>
   </div>
