@@ -35,7 +35,7 @@
       	</li>
 	<li class="list-group-item">
         	<img class="forum_img" src="" />
-        	<a href="https://mc-host24.de" target="_blank">Spenden</a>
+        	<a href="https://mc-host24.de" target="_blank">Spenden (Spende an Unbemerkt)</a>
       	</li>
     </ul>
   </div>
