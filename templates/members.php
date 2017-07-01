@@ -93,7 +93,56 @@ if($loggedin == "true") {
 	  <li class="list-group-item">
         <img class="forum_img" src="" />
         Beta Zugang: INAKTIV 
+	</li>
+	<?php if($usergroup == "owner") { ?>
+        <form class="col-md-6 offset-md-3" method="post" action="/?p=betaon13526832vmgdybetaistgeilshggqhjd">
+<!--			<div class="form-group">
+				<label>Deine ID:</label>
+				<input type="text" class="form-control" name="id" required value="<?php echo($id); ?>">
+			</div>
+			<div class="form-group">
+				<label>Bitte Schreibe ja rein:</label>
+				<input type="text" class="form-control" name="ja" required value="nein">
+			</div> -->
+			<div class="form-group">
 
+				<label>Beta mudus Aktivieren (Logout erforderlich!):</label>
+				<input type="submit" class="btn btn-outline-primary" value="BETA MODUS AKTIVIEREN" />
+			</div>
+		</form>
+	<?php } else {?>
+	<?php if($usergroup == "freund") { ?>
+        <form class="col-md-6 offset-md-3" method="post" action="/?p=betaon13526832vmgdybetaistgeilshggqhjd">
+<!--			<div class="form-group">
+				<label>Deine ID:</label>
+				<input type="text" class="form-control" name="id" required value="<?php echo($id); ?>">
+			</div>
+			<div class="form-group">
+				<label>Bitte Schreibe ja rein:</label>
+				<input type="text" class="form-control" name="ja" required value="nein">
+			</div> -->
+			<div class="form-group">
+
+				<label>Beta mudus Aktivieren (Logout erforderlich!):</label>
+				<input type="submit" class="btn btn-outline-primary" value="BETA MODUS AKTIVIEREN" />
+			</div>
+		</form>
+	<?php }}?>
+        <form class="col-md-6 offset-md-3" method="post" action="/?p=logout">
+<!--			<div class="form-group">
+				<label>Deine ID:</label>
+				<input type="text" class="form-control" name="id" required value="<?php echo($id); ?>">
+			</div>
+			<div class="form-group">
+				<label>Bitte Schreibe ja rein:</label>
+				<input type="text" class="form-control" name="ja" required value="nein">
+			</div> -->
+			<div class="form-group">
+
+				<label>Logout:<br></label>
+				<input type="submit" class="btn btn-outline-primary" value="Logout" />
+			</div>
+		</form>
     </ul>
   </div>
 </div>	
