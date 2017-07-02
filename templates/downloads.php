@@ -18,7 +18,7 @@
   </div>
 </div>
 <?php } else { ?>
-<div class="card">
+<div id="fader" class="card">
   <div class="card-header">
     Bitte Einloggen!
   </div>
