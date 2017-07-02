@@ -8,7 +8,7 @@
     <ul class="list-group list-group-flush">
       <li class="list-group-item">
         <img class="forum_img" src="/assets/img/mcgrass.png" />
-        <a href="?p=unbpeck">Unbemerkt Pack</a>
+        <a href="?p=unbpack">Unbemerkt Pack</a>
       </li>
     </ul>
   </div>
