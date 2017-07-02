@@ -7,12 +7,15 @@
     <ul class="list-group list-group-flush">
       <li class="list-group-item">
         <img class="forum_img" src="/assets/img/mcgrass.png" />
-        Granate:
-      </li>
-	  <li class="list-group-item">
+        Unbemerkt Pack:
+      	</li>
+	<li class="list-group-item">
         <img class="forum_img" src="" />
-        Item [Rechtsklick]: Firework Star; minecraft:firework_charge; 402;
-      </li>
+        	Bilder:
+      	</li>
+        <img class="forum_img" src="" />
+        	Leider noch keine Bilder vorhanden!
+      	</li>
 	  <li class="list-group-item">
 	  <img class="forum_img" src="" />
         Video:
