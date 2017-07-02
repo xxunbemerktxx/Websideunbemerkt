@@ -1,7 +1,7 @@
 
 <div id="fader" class="card">
   <div class="card-header">
-    Minecraft Plugin "Granate"
+    Minecraft Texturepack "Unbemerkt"
   </div>
   <div class="card-block forums-list">
     <ul class="list-group list-group-flush">
@@ -25,7 +25,7 @@
         Download:
       </li>
 	        <?php
-                                    $ordner = "downloads/Granate";
+                                    $ordner = "downloads/unbpack";
                                     $alledateien = scandir($ordner);
 
                                     foreach ($alledateien as $datei) {
