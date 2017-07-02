@@ -7,7 +7,7 @@ if(isset($_POST['a'])) {
 if($loggedin_tester == "1") {
 ?>
 
-<div class="card">
+<div id="fader" class="card">
   <div class="card-header">
     Willkommen Beta Tester!
   </div>
@@ -32,7 +32,7 @@ if($loggedin_tester == "1") {
 </div>
 <?php } else { ?>
 
-<div class="card">
+<div id="fader" class="card">
   <div class="card-header">
     Willkommen!
   </div>
