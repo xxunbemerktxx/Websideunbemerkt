@@ -13,6 +13,7 @@
         <img class="forum_img" src="" />
         	Bilder:
       	</li>
+	<li class="list-group-item">
         <img class="forum_img" src="" />
         	Leider noch keine Bilder vorhanden!
       	</li>
